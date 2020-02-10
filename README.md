@@ -1,2 +1,2 @@
 # Java-Training-Programs
-Initial Training Period
+Initial Training Period programs
